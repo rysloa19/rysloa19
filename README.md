@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Ryan Sloan and I am an aspiring aerospace engineering student at Iowa State University. I enjoy being out in nature and spending time with my family.
 <!--
 **rysloa19/rysloa19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
